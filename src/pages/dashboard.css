@@ -1,7 +1,16 @@
 .width{
-    width: 40rem;
+    width: 70rem;
 }
 
 .align-center{
     margin-left: 35rem;
+}
+
+.card-width{
+    width: 25rem;
+}
+
+.head-width{
+    width: 100% !important; 
+    justify-content: space-between !important;
 }
