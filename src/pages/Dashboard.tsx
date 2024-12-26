@@ -66,6 +66,7 @@ const Dashboard = () => {
     const columns = [
         {
             title: 'Sr. No.',
+            width: 120,
             dataIndex: 'serial',
             key: 'serial',
             render: (text: string, record: any, index: number) => index + 1, // Render serial number based on index
